@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio and tooling
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Development certificates
+*.pfx
+*.p12
