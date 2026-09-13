@@ -1,14 +1,10 @@
-# Build output
-bin/
-obj/
+# General OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
 
-# Visual Studio and tooling
-.vs/
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
-
-# Development certificates
-*.pfx
-*.p12
+# Logs and temporary files
+*.log
+*.tmp
